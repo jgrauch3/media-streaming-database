@@ -1,7 +1,7 @@
 # Media Streaming Service: Database Architecture & Backend Logic
 
 ## Overview
-This project involves the end-to-end design and implementation of a relational database for a media streaming platform (similar to Spotify/Netflix). The system manages complex interactions between **Users, Creators, Listeners, and Content**
+This project involves the end-to-end design and implementation of a relational database for a media streaming platform (similar to Spotify/Netflix). The system manages complex interactions between **Users, Creators, Listeners, and Content**.
 
 ## Technical Highlights
 * **Complex Schema:** Architected a relational schema with **20+ tables** including Songs, Podcast Episodes, Albums, and Playlists
