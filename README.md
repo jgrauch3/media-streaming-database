@@ -1,2 +1,2 @@
 # media-streaming-database
-SQL relational database for a media service
+A relational database for a media streaming service featuring 20+ interrelated tables, complex ER cardinalities, and automated backend logic.
