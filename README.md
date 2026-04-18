@@ -9,7 +9,7 @@ This project involves the end-to-end design and implementation of a relational d
 * [cite_start]**Automation:** Engineered **SQL Stored Procedures** to automate backend logic, including subscription renewal, content streaming, and social media management[cite: 36, 153].
 
 ## System Architecture
-![ER Diagram](images/ER_Diagram.png)
+![ER Diagram](images/ERD.png)
 
 ## Key Mechanisms Implemented
 * [cite_start]**Subscription Management:** Automated end-date extensions and family plan validation[cite: 36, 69].
